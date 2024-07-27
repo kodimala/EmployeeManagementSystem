@@ -11,7 +11,7 @@ public class EmployeesystemApplication {
 	   
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeesystemApplication.class, args);
-		System.out.println("execution success");
+		System.out.println("execution success....");
 		logger.info("executing success wih logger");
 		
 	}
